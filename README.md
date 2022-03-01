@@ -24,4 +24,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<div class="tenor-gif-embed" data-postid="19427546" data-share-method="host" data-aspect-ratio="1.33891" data-width="100%"><a href="https://tenor.com/view/naruto-gif-19427546">Naruto GIF</a>from <a href="https://tenor.com/search/naruto-gifs">Naruto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
